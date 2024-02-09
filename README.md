@@ -56,4 +56,6 @@ Deployed on the superfast [Netlify](https://www.netlify.com/) platform.
 
 MIT Licensed
 
+Copyright (c) 2024 Startr LLC
+Copyright (c) [Respective Contributution date] [Contrtbuter]
 Copyright (c) 2016-2022 Kushagra Gour, [webmaker.app](https://webmaker.app)
